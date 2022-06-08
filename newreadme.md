@@ -2,13 +2,13 @@
 # README Generator
 
 ## Username
-- hkagei
+- Hkagei
 
 ## Your Name
 - Hiro
 
 ## Title
-- README Generator
+- readme generator
 
 ## Email
 - k_dawg_1022@hotmail.com
@@ -18,5 +18,5 @@
 
 ## License
 - MIT
-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
